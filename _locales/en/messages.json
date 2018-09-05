@@ -1,206 +1,206 @@
 {
     "hash_status_code_1": {
         "message": "up to date",
-        "description": ""
+        "description": "最新の"
     },
 
     "hash_status_code_2": {
         "message": "updated",
-        "description": ""
+        "description": "更新する"
     },
 
     "hash_status_code_3": {
         "message": "update available",
-        "description": ""
+        "description": "利用可能な更新"
     },
 
     "hash_status_code_4": {
         "message": "error",
-        "description": ""
+        "description": "エラー"
     },
 
     "hash_status_code_5": {
         "message": "Oops something went wrong!",
-        "description": ""
+        "description": "おっと！何かが間違っていた！"
     },
 
     "log_redirect": {
         "message": "This url is redirected",
-        "description": ""
+        "description": "この URL はリダイレクトされます"
     },
 
     "log_domain_blocked": {
         "message": "This domain is blocked",
-        "description": ""
+        "description": "このドメインはブロックされています"
     },
 
     "check_os_log": {
         "message": "[ClearURLs]: Log listener is added.",
-        "description": ""
+        "description": "[ClearURLs]：ログリスナーが追加されました。"
     },
 
     "log_html_page_title": {
         "message": "Log from ClearURLs",
-        "description": ""
+        "description": "ClearURLs からのログ"
     },
 
     "log_html_table_head_1": {
         "message": "Before processing",
-        "description": ""
+        "description": "処理する前に"
     },
 
     "log_html_table_head_2": {
         "message": "After processing",
-        "description": ""
+        "description": "処理後"
     },
 
     "log_html_table_head_3": {
         "message": "Rule",
-        "description": ""
+        "description": "規則"
     },
 
     "log_html_table_head_4": {
         "message": "Time",
-        "description": ""
+        "description": "時間"
     },
 
     "log_html_reset_button": {
         "message": "Reset",
-        "description": ""
+        "description": "リセットする"
     },
 
     "log_html_reset_button_title": {
         "message": "Reset the global log",
-        "description": ""
+        "description": "グローバルログをリセットする"
     },
 
     "popup_html_configs_head": {
         "message": "Configs",
-        "description": ""
+        "description": "設定"
     },
 
     "popup_html_configs_switch_filter": {
         "message": "Filter",
-        "description": ""
+        "description": "フィルター"
     },
 
     "popup_html_configs_switch_log": {
         "message": "Logging",
-        "description": ""
+        "description": "追跡記録"
     },
 
     "popup_html_configs_switch_log_title": {
         "message": "The log is saved only locally. We advise against this feature if you do not need it",
-        "description": ""
+        "description": "ログはローカルにのみ保存されます。この機能が必要ない場合は、この機能を無効にすることをおすすめします。"
     },
 
     "popup_html_configs_switch_badges": {
         "message": "Badges",
-        "description": ""
+        "description": "バッジ"
     },
 
     "popup_html_statistics_head": {
         "message": "Statistics",
-        "description": ""
+        "description": "統計"
     },
 
     "popup_html_statistics_elements": {
         "message": "Elements",
-        "description": ""
+        "description": "要素"
     },
 
     "popup_html_statistics_blocked": {
         "message": "Blocked",
-        "description": ""
+        "description": "ブロックされた"
     },
 
     "popup_html_statistics_percentage": {
         "message": "Percentage",
-        "description": ""
+        "description": "パーセンテージ"
     },
 
     "popup_html_statistics_reset_button": {
         "message": "Reset",
-        "description": ""
+        "description": "リセットする"
     },
 
     "popup_html_statistics_reset_button_title": {
         "message": "Reset the global statistics",
-        "description": ""
+        "description": "グローバル統計をリセットする"
     },
 
     "popup_html_rules_status_head": {
         "message": "Rules-Status",
-        "description": ""
+        "description": "ルール・ステータス"
     },
 
     "popup_html_log_head": {
         "message": "Log",
-        "description": ""
+        "description": "記録を取る"
     },
 
     "popup_html_log_head_title": {
         "message": "Open the log",
-        "description": ""
+        "description": "記録を開く"
     },
 
     "core_save_on_disk": {
         "message": "[ClearURLs]: Save on disk.",
-        "description": ""
+        "description": "[ClearURLs]：ディスクに保存します。"
     },
 
     "core_error": {
         "message": "[ClearURLs]: The addon could not started.",
-        "description": ""
+        "description": "[ClearURLs]：アドオンを開始できませんでした。"
     },
 
     "configs_switch_statistics": {
         "message": "Statistics",
-        "description": ""
+        "description": "統計"
     },
 
     "configs_switch_statistics_title": {
         "message": "Activate or deactivate the statistics function",
-        "description": ""
+        "description": "統計機能を有効または無効にする"
     },
 
     "settings_html_page_title": {
         "message": "Settings from ClearURLs",
-        "description": ""
+        "description": "ClearURL からの設定"
     },
 
     "badged_color_label": {
         "message": "Badged color",
-        "description": ""
+        "description": "バッジの色"
     },
 
     "setting_html_reset_button": {
         "message": "Reset",
-        "description": ""
+        "description": "リセットする"
     },
 
     "setting_html_reset_button_title": {
         "message": "Reset everything",
-        "description": ""
+        "description": "すべてをリセットする"
     },
 
     "setting_rule_url_label": {
         "message": "The url to the data.json file (rules)",
-        "description": ""
+        "description": "data.json ファイルへの URL（ルール）"
     },
 
     "settings_html_save_button": {
         "message": "Save & reload addon",
-        "description": ""
+        "description": "アドオンの保存と再読み込み"
     },
 
     "settings_html_save_button_title": {
         "message": "Saves the settings",
-        "description": ""
+        "description": "設定を保存します。"
     },
 
     "setting_hash_url_label": {
         "message": "The url to the rules.hash file (hash)",
-        "description": ""
+        "description": "rules.hash ファイル（ハッシュ）への URL"
     }
 }
